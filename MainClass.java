@@ -69,7 +69,7 @@ public class MainClass {
 			System.out.print(">");
 			
 			input=sc.nextLine();
-			for(int x=0;x<30;x++) {
+			for(int x=0;x<60;x++) {
 				System.out.println();
 			}
 			System.out.println("---------------------------------------------------");
